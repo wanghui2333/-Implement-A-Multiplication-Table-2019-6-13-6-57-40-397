@@ -22,3 +22,5 @@ AC3: The output should be a string represents the multiplication table. Suppose 
 * Please define all the methods according to your task diagram.
 * Please write down a test case using *given...when...then* pattern for a leaf block. Then implement the block to pass the test.
 * Please continue doing this work until all the requirement has been fulfilled.,
+
+![乘法表任务图](assets/table.png)
